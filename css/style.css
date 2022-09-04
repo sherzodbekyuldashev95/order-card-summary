@@ -138,3 +138,11 @@ button:hover{
     color: gray;
 
 }
+
+@media only screen and (max-width: 470px) {
+
+    .container{
+        width: 80vw;
+    }
+    
+}
