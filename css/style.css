@@ -146,8 +146,13 @@ button:hover{
         min-height: 75vh;
     }
     
+    .main-img{
+        width: 100%;
+    }
 
     .tarrif{
         width: 90%;
     }
+
+
 }
